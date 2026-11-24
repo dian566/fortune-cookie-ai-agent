@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Entry for make.fun: Fortune Cookie for an AI Agent."""
+"""Entry for make.fun: Fortune Cookie for an AI Agent.
+
+The fortune slip is one line of at most 140 characters.
+"""
 
 from os import makedirs
 
